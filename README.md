@@ -18,23 +18,24 @@
 Apaixonado por tecnologia sempre buscando novos conhecimentos. Tentando sempre resolver os problemas do dia a dia da melhor forma possível. Formado em Engenharia Civil pela Uninassau descobri a tecnologia a partir do BIM e desde então venho desenvolvendo soluções práticas.
 
 <!-- Tech Stack -->
-###🛠 Tech Stack
+### 🛠 Tech Stack
 <hr>
-####👨‍💻 Back-End
+
+#### 👨‍💻 Back-End
 <div style="display: flex; flex-direction: row; gap: 20px">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
-####🎨 Front End
+#### 🎨 Front End
 <div style="display: flex; flex-direction: row; gap: 20px">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>
 
-####🗃 Database
+#### 🗃 Database
 <div style="display: flex; flex-direction: row; gap: 20px">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
