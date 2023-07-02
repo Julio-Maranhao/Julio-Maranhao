@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hello World 👋</h1>
 </div>
-<hr>
 <img src="coding.gif">
 <h3 align="center">
   Connect with me
